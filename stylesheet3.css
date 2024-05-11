@@ -1,0 +1,22 @@
+h2{
+    text-decoration-line: underline;
+}
+#colBlue{
+    color: rgb(49, 49, 222);
+}
+#firstlink a,#seclink a{
+    color: rgb(215, 172, 15);
+    text-decoration: underline;
+}
+#thirdlink a{
+    color: rgb(215, 114, 215);
+    text-decoration: underline;
+    
+}
+#redthlink a{
+    color: red;
+}
+
+#internalitems{
+    color: rgb(49, 49, 222);
+}

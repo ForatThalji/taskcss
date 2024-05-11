@@ -1,0 +1,18 @@
+td{
+    border-radius: 10%;
+    margin: 5%;
+    padding: 6PX;
+    border: 1px solid;
+    box-shadow:  5px 4px 3px #716e6e;
+
+}
+
+table{
+border-spacing: 12PX;
+}
+tr{
+    margin: 10%;
+}
+h3{
+    margin-left:10px ;
+}

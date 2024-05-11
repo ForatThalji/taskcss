@@ -1,0 +1,43 @@
+div{
+    width: fit-content;
+    height: 500px;
+    background-color: rgb(247, 247, 235);
+    border-right:6px solid #030303;
+    
+ 
+ }
+ p{
+     overflow: hidden;
+     flex-wrap: wrap;
+     margin: 3%;
+     float: left;
+     width: 22%;
+     height: fit-content;
+     position: static;
+     display:block;
+     background-color: #e7e1e1;
+    
+     
+  }
+  h4{
+   margin: 0px;
+  }
+  .lorem1{
+   margin-left: 0px
+  }
+  .lorem3{
+   margin-right:8%;
+  }
+  .lorem4{
+   height: 80px;
+   width: 98%;
+   margin-left: 0px;
+   position: fixed;
+   top: 20%;
+   overflow-y:scroll;
+   background-color: rgb(247, 247, 235);
+   border-top:3px solid #030303;
+   border-bottom:3px solid #030303;
+
+
+  }
